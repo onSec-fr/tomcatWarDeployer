@@ -824,8 +824,8 @@ def browseToManager(host, url, user, password):
 
     tomcat_suffixes = [ 
         '', 
+	'manager/html',
         'manager', 
-        'manager/html'
 
         # CVE-2007-1860
         '%252e%252e/manager',
