@@ -527,10 +527,7 @@ def preparePayload(opts):
 		<title>JSP Application</title>
 	</head>
 	<body>
-		<h3>JSP Backdoor deployed as WAR on Apache Tomcat.</h3>
-		<i style="font-size:9px">You need to provide valid password in order to leverage RCE.</i>
-		<br/>
-		<font style="font-size:5px" style="font-style:italic;color:grey">coded by <a href="https://github.com/mgeeky">mgeeky</a></font>
+		<h3>PWNED</h3>
 		<br/>
 		<hr/>
 		<form method=post>
